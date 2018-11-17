@@ -2,8 +2,8 @@
 //  Button_FunTests.swift
 //  Button FunTests
 //
-//  Created by ppyakuryal on 3/23/15.
-//  Copyright (c) 2015 Apress. All rights reserved.
+//  Created by ppyakuryal on 4/12/18.
+//  Copyright (c) 2018 Paras. All rights reserved.
 //
 
 import UIKit
@@ -28,7 +28,7 @@ class Button_FunTests: XCTestCase {
     
     func testPerformanceExample() {
         // This is an example of a performance test case.
-        self.measureBlock() {
+        self.measure() {
             // Put the code you want to measure the time of here.
         }
     }
